@@ -6,7 +6,7 @@ body {
 .calculator {
     display: grid;
     gap: 0px;
-    background-color: #1C1C1C;
+    background-color: #150050;
     max-height: 800px;
     max-width: 350px;
     margin: auto;
@@ -23,7 +23,7 @@ body {
 #displayText {    
     text-align: right;
     font-size: 4rem;
-    background-color: #1C1C1C;
+    background-color: #150050;
     color: whitesmoke;
     width: 100%;
     display: grid;
@@ -75,7 +75,7 @@ button {
 
 .operator,
 #equals {
-    background-color: #ff9500;
+    background-color: #3F0071;
 }
 
 .operator:focus,
